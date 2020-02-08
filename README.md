@@ -1,0 +1,1 @@
+This is an app to keep track of a Lab resources (equipment). It allows create, and delete resources, as well as sign in and out resources
